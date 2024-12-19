@@ -150,7 +150,7 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: DS18B20 Sıcaklık Sensörü
 
-![ds18b20 Devre Şeması](Images/ds18b20.jpg)
+![ds18b20 Devre Şeması](Images/ds18b20.png)
 
 ### KY Serisi Sensörler
 
@@ -172,7 +172,7 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: KY-008 Sensörü
 
-![ky008 Devre Şeması](Images/KY-008.jpg)
+![ky008 Devre Şeması](Images/KY-008.png)
 
 ### Örnek: KY-026 Sensörü
 
@@ -204,7 +204,7 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: KY-027 Sensörü
 
-![ky027 Devre Şeması](Images/KY-027.jpg)
+![ky027 Devre Şeması](Images/KY-027.png)
 
 ### Örnek: KY-010 Sensörü
 
@@ -220,7 +220,7 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: KY-038 Sensörü
 
-![ky038 Devre Şeması](Images/KY-038.jpg)
+![ky038 Devre Şeması](Images/KY-038.png)
 
 ### Örnek: KY-013 Sensörü
 
@@ -232,7 +232,7 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: KY-040 Sensörü
 
-![ky040 Devre Şeması](Images/KY-040.jpg)
+![ky040 Devre Şeması](Images/KY-040.png)
 
 
 
@@ -441,7 +441,7 @@ The library supports the following sensors:
 
 ### Example: DS18B20 Temperature Sensor
 
-![ds18b20 Circuit Diagram](Images/ds18b20.jpg)
+![ds18b20 Circuit Diagram](Images/ds18b20.png)
 
 ### KY Series Sensors
 
@@ -463,7 +463,7 @@ The library supports the following sensors:
 
 ### Example: KY-008 Sensor
 
-![KY008 Circuit Diagram](Images/KY-008.jpg)
+![KY008 Circuit Diagram](Images/KY-008.png)
 
 ### Example: KY-026 Sensor
 
@@ -495,7 +495,7 @@ The library supports the following sensors:
 
 ### Example: KY-027 Sensor
 
-![KY027 Circuit Diagram](Images/KY-027.jpg)
+![KY027 Circuit Diagram](Images/KY-027.png)
 
 ### Example: KY-010 Sensor
 
@@ -511,7 +511,7 @@ The library supports the following sensors:
 
 ### Example: KY-038 Sensor
 
-![KY038 Circuit Diagram](Images/KY-038.jpg)
+![KY038 Circuit Diagram](Images/KY-038.png)
 
 ### Example: KY-013 Sensor
 
@@ -523,7 +523,7 @@ The library supports the following sensors:
 
 ### Example: KY-040 Sensor
 
-![KY040 Circuit Diagram](Images/KY-040.jpg)
+![KY040 Circuit Diagram](Images/KY-040.png)
 
 ---
 
