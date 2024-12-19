@@ -172,7 +172,7 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: KY-008 Sensörü
 
-![ky008 Devre Şeması](Images/KY-008.png)
+![ky008 Devre Şeması](Images/ky-008.png)
 
 ### Örnek: KY-026 Sensörü
 
@@ -180,15 +180,15 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: KY-002 Sensörü
 
-![ky002 Devre Şeması](Images/KY-002.png)
+![ky002 Devre Şeması](Images/ky-002.png)
 
 ### Örnek: KY-018 Sensörü
 
-![ky018 Devre Şeması](Images/KY18.png)
+![ky018 Devre Şeması](Images/ky18.png)
 
 ### Örnek: KY-020 Sensörü
 
-![ky020 Devre Şeması](Images/KY-020.png)
+![ky020 Devre Şeması](Images/ky-020.png)
 
 ### Örnek: KY-017 Sensörü
 
@@ -208,11 +208,11 @@ Kütüphane aşağıdaki sensörleri destekler:
 
 ### Örnek: KY-010 Sensörü
 
-![ky010 Devre Şeması](Images/KY010.png)
+![ky010 Devre Şeması](Images/ky010.png)
 
 ### Örnek: KY-025 Sensörü
 
-![ky025 Devre Şeması](Images/KY-025.png)
+![ky025 Devre Şeması](Images/ky-025.png)
 
 ### Örnek: KY-032 Sensörü
 
@@ -463,7 +463,7 @@ The library supports the following sensors:
 
 ### Example: KY-008 Sensor
 
-![KY008 Circuit Diagram](Images/KY-008.png)
+![KY008 Circuit Diagram](Images/ky-008.png)
 
 ### Example: KY-026 Sensor
 
@@ -471,15 +471,15 @@ The library supports the following sensors:
 
 ### Example: KY-002 Sensor
 
-![KY002 Circuit Diagram](Images/KY-002.png)
+![KY002 Circuit Diagram](Images/ky-002.png)
 
 ### Example: KY-018 Sensor
 
-![KY018 Circuit Diagram](Images/KY18.png)
+![KY018 Circuit Diagram](Images/ky18.png)
 
 ### Example: KY-020 Sensor
 
-![KY020 Circuit Diagram](Images/KY-020.png)
+![KY020 Circuit Diagram](Images/ky-020.png)
 
 ### Example: KY-017 Sensor
 
@@ -499,11 +499,11 @@ The library supports the following sensors:
 
 ### Example: KY-010 Sensor
 
-![KY010 Circuit Diagram](Images/KY010.png)
+![KY010 Circuit Diagram](Images/ky010.png)
 
 ### Example: KY-025 Sensor
 
-![KY025 Circuit Diagram](Images/KY-025.png)
+![KY025 Circuit Diagram](Images/ky-025.png)
 
 ### Example: KY-032 Sensor
 
